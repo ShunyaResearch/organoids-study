@@ -1,0 +1,6 @@
+# Versions used for the paper (Python 3.10.12, Linux x86_64, CPU only).
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+torch==2.10.0
+snntorch==1.0.0
