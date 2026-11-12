@@ -58,3 +58,6 @@ Runs are deterministic per seed (one CPU thread per run).
 organoids/  data.py  env.py  metrics.py  agents.py  ppo.py  interface.py  stats.py
 scripts/    organoid_runs.py  train.py  compare.py  reference_policies.py  replay.py  paper_runs.sh
 ```
+## License
+The code in this repository is released under the MIT License.
+Datasets and third-party dependencies are covered by their own licenses. Check each one before you use or redistribute it.
